@@ -11,4 +11,4 @@ this can use a ton of space if you have a ton of mods.  So if you've got a kazil
 Author: Tony Welder
 Email: tony.wvoip@gmail.com
 
-Use at your own risk.  best to test the thing before you rely on it.  I can you with 100% certainty it works well for me :).
+Use at your own risk.  best to test the thing before you rely on it.  I can tell you with 100% certainty it works well for me :).
